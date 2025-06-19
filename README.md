@@ -72,7 +72,7 @@ git clone https://github.com/vedantbawkar/Habitual.ly
 
 2. Navigate to the project directory
 ```powershell
-cd DailyHabitTracketApp/mainapp
+cd habitually
 ```
 
 3. Install dependencies
