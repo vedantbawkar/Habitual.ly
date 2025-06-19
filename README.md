@@ -67,7 +67,7 @@ lib/
 
 1. Clone the repository
 ```powershell
-git clone [repository-url]
+git clone https://github.com/vedantbawkar/Habitual.ly
 ```
 
 2. Navigate to the project directory
