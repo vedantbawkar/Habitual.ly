@@ -1,6 +1,6 @@
 # Habitual.ly - Daily Habit Tracker
 
-A beautiful and modern habit tracking app built with Flutter that helps users form and maintain daily habits through an engaging reward system and social features.
+A modern habit tracking app built with Flutter that helps users form and maintain daily habits through an engaging reward system and social features.
 
 ## Features
 
